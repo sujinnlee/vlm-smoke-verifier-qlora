@@ -1,0 +1,8 @@
+*.zip
+*.pt
+*.jpg
+*.png
+adapter/
+qlora_crops/
+data/
+.DS_Store
