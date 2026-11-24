@@ -6,3 +6,4 @@ adapter/
 qlora_crops/
 data/
 .DS_Store
+!results/*.png
